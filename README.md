@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![PostPolish Logo](https://img.shields.io/badge/SocioPilot-AI%20Content%20Analyzer-blue?style=for-the-badge&logo=robot)
+![PostPolish Logo](https://img.shields.io/badge/PostPolish-AI%20Content%20Analyzer-blue?style=for-the-badge&logo=robot)
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)
 ![AI](https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google)
 
 *Transform your social media content with AI-powered insights and optimization suggestions*
 
-[🚀 Live Demo](#-live-demo) • [📖 Features](#-features) • [🛠️ Installation](#️-installation) • [🚀 Deployment](#-deployment) • [📚 Documentation](#-documentation)
+[🚀 Live Demo](https://post-polish-beta.vercel.app/) • [📖 Features](#-features) • [🛠️ Installation](#️-installation) • [🚀 Deployment](#-deployment) • [📚 Documentation](#-documentation)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 ## 🌟 Overview
 
-SocioPilot is a cutting-edge web application that revolutionizes social media content creation by leveraging artificial intelligence to analyze, optimize, and enhance your posts. Whether you're a content creator, digital marketer, or social media manager, SocioPilot provides actionable insights to maximize engagement and reach.
+PostPolish is a cutting-edge web application that revolutionizes social media content creation by leveraging artificial intelligence to analyze, optimize, and enhance your posts. Whether you're a content creator, digital marketer, or social media manager, PostPolish provides actionable insights to maximize engagement and reach.
 
-### 🎯 What Makes SocioPilot Special?
+### 🎯 What Makes PostPolish Special?
 
 - **🤖 AI-Powered Analysis**: Uses Google's Gemini AI to provide intelligent content analysis
 - **📄 Multi-Format Support**: Handles PDFs, images (PNG, JPG), and text extraction
@@ -131,8 +131,8 @@ server/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/SocioPilot.git
-cd SocioPilot
+git clone https://github.com/your-username/PostPolish.git
+cd PostPolish
 ```
 
 ### Step 2: Backend Setup
@@ -144,8 +144,8 @@ cd server
 npm install
 
 # Create environment file
-echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env
-echo "PORT=5000" >> .env
+"GEMINI_API_KEY=your_gemini_api_key_here"
+"PORT=5000" 
 
 # Start the server
 npm start
@@ -160,7 +160,7 @@ cd client
 npm install
 
 # Create environment file
-echo "VITE_API_URL=http://localhost:5000" > .env
+"VITE_API_URL=http://localhost:5000"
 
 # Start the development server
 npm run dev
@@ -243,7 +243,7 @@ npm install -g @render/cli
 
 # Deploy backend
 cd server
-render services create --name sociopilot-backend
+render services create --name PostPolish-backend
 ```
 
 ### Manual Deployment
@@ -407,9 +407,9 @@ We welcome contributions! Here's how you can help:
 - Try with smaller files first
 
 ### Getting Help
-- Check the [Issues](https://github.com/your-username/SocioPilot/issues) page
-- Join our [Discord Community](https://discord.gg/sociopilot)
-- Email support: support@sociopilot.com
+- Check the [Issues](https://github.com/your-username/PostPolish/issues) page
+- Join our [Discord Community](https://discord.gg/PostPolish)
+- Email support: support@PostPolish.com
 
 ---
 
@@ -442,6 +442,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Jahnavi Jaiswal](https://github.com/JahnaviJais)**
 
-[⭐ Star this repo](https://github.com/your-username/SocioPilot) • [🐛 Report Bug](https://github.com/your-username/SocioPilot/issues) • [💡 Request Feature](https://github.com/your-username/SocioPilot/issues)
+[⭐ Star this repo](https://github.com/your-username/PostPolish) • [🐛 Report Bug](https://github.com/your-username/PostPolish/issues) • [💡 Request Feature](https://github.com/your-username/PostPolish/issues)
 
 </div>
