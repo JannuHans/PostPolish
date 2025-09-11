@@ -49,6 +49,9 @@ echo 1. Deploy backend to Render:
 echo    - Go to https://dashboard.render.com
 echo    - Create new Web Service
 echo    - Connect GitHub repository
+echo    - Set Root Directory to 'server'
+echo    - Set Build Command to 'npm install'
+echo    - Set Start Command to 'npm start'
 echo    - Set environment variables (GEMINI_API_KEY)
 echo.
 echo 2. Deploy frontend to Vercel:
