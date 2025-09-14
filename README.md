@@ -434,12 +434,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Jannu Hans**
 - LinkedIn: [Jannu Hans](https://www.linkedin.com/in/jannu-hans-16181a2a1/)
 
----
-
-<div align="center">
-
-**Made with ❤️ by [Jahnavi Jaiswal](https://github.com/JahnaviJais)**
-
-[⭐ Star this repo](https://github.com/your-username/PostPolish) • [🐛 Report Bug](https://github.com/your-username/PostPolish/issues) • [💡 Request Feature](https://github.com/your-username/PostPolish/issues)
-
-</div>
