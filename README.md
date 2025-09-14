@@ -431,10 +431,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Jahnavi Jaiswal**
-- GitHub: [@JahnaviJais](https://github.com/JahnaviJais)
-- Email: jahnavi@example.com
-- LinkedIn: [Jahnavi Jaiswal](https://linkedin.com/in/jahnavi-jaiswal)
+**Jannu Hans**
+- LinkedIn: [Jannu Hans](https://www.linkedin.com/in/jannu-hans-16181a2a1/)
 
 ---
 
